@@ -43,4 +43,9 @@ Contributions are welcome
 This project is licensed under the [MIT License](LICENSE).
 
 
+## LINKS
+
+- repo: https://github.com/gabinoe/social-sphere
+- pages: https://gabinoe.github.io/social-sphere
+
 
